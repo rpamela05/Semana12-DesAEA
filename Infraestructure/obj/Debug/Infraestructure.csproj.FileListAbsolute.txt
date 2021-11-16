@@ -1,0 +1,16 @@
+D:\Users\rpame\source\repos\MVCAJAX\Infraestructure\bin\Debug\Infraestructure.dll.config
+D:\Users\rpame\source\repos\MVCAJAX\Infraestructure\bin\Debug\Infraestructure.dll
+D:\Users\rpame\source\repos\MVCAJAX\Infraestructure\bin\Debug\Infraestructure.pdb
+D:\Users\rpame\source\repos\MVCAJAX\Infraestructure\bin\Debug\Domain.dll
+D:\Users\rpame\source\repos\MVCAJAX\Infraestructure\bin\Debug\EntityFramework.dll
+D:\Users\rpame\source\repos\MVCAJAX\Infraestructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\rpame\source\repos\MVCAJAX\Infraestructure\bin\Debug\Domain.pdb
+D:\Users\rpame\source\repos\MVCAJAX\Infraestructure\bin\Debug\EntityFramework.xml
+D:\Users\rpame\source\repos\MVCAJAX\Infraestructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\rpame\source\repos\MVCAJAX\Infraestructure\obj\Debug\Infraestructure.csprojAssemblyReference.cache
+D:\Users\rpame\source\repos\MVCAJAX\Infraestructure\obj\Debug\Infraestructure.csproj.CoreCompileInputs.cache
+D:\Users\rpame\source\repos\MVCAJAX\Infraestructure\obj\Debug\Infraestructure.csproj.CopyComplete
+D:\Users\rpame\source\repos\MVCAJAX\Infraestructure\obj\Debug\Infraestructure.dll
+D:\Users\rpame\source\repos\MVCAJAX\Infraestructure\obj\Debug\Infraestructure.pdb
+D:\Users\rpame\source\repos\MVCAJAX\Infraestructure\obj\Debug\Infraestructure.Migrations.v1.resources
+D:\Users\rpame\source\repos\MVCAJAX\Infraestructure\obj\Debug\Infraestructure.csproj.GenerateResource.cache

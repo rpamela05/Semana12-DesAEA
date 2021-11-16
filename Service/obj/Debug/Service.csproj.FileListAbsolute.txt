@@ -1,0 +1,17 @@
+D:\Users\rpame\source\repos\MVCAJAX\Service\bin\Debug\Service.dll.config
+D:\Users\rpame\source\repos\MVCAJAX\Service\bin\Debug\Service.dll
+D:\Users\rpame\source\repos\MVCAJAX\Service\bin\Debug\Service.pdb
+D:\Users\rpame\source\repos\MVCAJAX\Service\bin\Debug\Domain.dll
+D:\Users\rpame\source\repos\MVCAJAX\Service\bin\Debug\EntityFramework.dll
+D:\Users\rpame\source\repos\MVCAJAX\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\rpame\source\repos\MVCAJAX\Service\bin\Debug\Infraestructure.dll
+D:\Users\rpame\source\repos\MVCAJAX\Service\bin\Debug\Domain.pdb
+D:\Users\rpame\source\repos\MVCAJAX\Service\bin\Debug\Infraestructure.pdb
+D:\Users\rpame\source\repos\MVCAJAX\Service\bin\Debug\Infraestructure.dll.config
+D:\Users\rpame\source\repos\MVCAJAX\Service\bin\Debug\EntityFramework.xml
+D:\Users\rpame\source\repos\MVCAJAX\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\rpame\source\repos\MVCAJAX\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\Users\rpame\source\repos\MVCAJAX\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\Users\rpame\source\repos\MVCAJAX\Service\obj\Debug\Service.csproj.CopyComplete
+D:\Users\rpame\source\repos\MVCAJAX\Service\obj\Debug\Service.dll
+D:\Users\rpame\source\repos\MVCAJAX\Service\obj\Debug\Service.pdb
